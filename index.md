@@ -7,5 +7,5 @@ i'll update this site every saturday so you can stay on track to my latest proje
 
 
 
-Having trouble with my Page? Email me at : wkialdukhail@sm.imamu.edu.sa
-and i’ll help you sort it out .
+Having trouble with my Page? 
+Email me at : (wkialdukhail@sm.imamu.edu.sa) and i’ll help you sort it out .
