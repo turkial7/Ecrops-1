@@ -4,7 +4,7 @@ you can view all the updates for my CS310 project -Ecrops-
 
 
 i'll update this site every saturday so you can stay on track to my latest project updates and ideas! 
-
+## Project Process
 Tuesday 22/9/2020 Just finshed the phase 0 of Ecrops , that contained the idea of the project 
 
 
