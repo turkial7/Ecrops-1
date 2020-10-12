@@ -12,3 +12,5 @@
 # abdulrahman
 10/10/2020 Just finshed the phase 1 of Ecrops , that contained the SRS for the project , i did the product function and user cases.
 
+# Turki 
+10/10/2020 Just fineshed the phase 1 of Ecrops that contained the SRS for the project , I made the product perspective .
